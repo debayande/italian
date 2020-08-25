@@ -1,3 +1,7 @@
 h1. italian
 
 A chronicle of my attempts to learn Italian.
+
+h2. Anki flashcard sets
+
+* "Le 1000 parole più usante in Italiano ordinate in quattro categorie secondo la frequenza d'uso":https://github.com/debayande/italian/blob/prime/telelinea.free.fr.anki.txt. A.K.A. the "Telelinea" word list. "Link to the original":http://telelinea.free.fr/italien/1000_parole.html.

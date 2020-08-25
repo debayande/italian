@@ -1,0 +1,1158 @@
+dress (n.)	abito	
+water (n.)	acqua	
+deal (n.)	affare	
+help (n.)	aiuto	
+hotel (n.)	albergo	
+tree (n.)	albero	
+environment (n.)	ambiente	
+friend (n.)	amico	
+love (n.)	amore	
+angle (n.)	angolo	
+soul (n.)	anima	
+animal (n.)	animale	
+mind (n.)	animo	
+year (n.)	anno	
+topic (n.)	argomento	
+air (n.)	aria	
+weapon (n.)	arma	
+art (n.)	arte	
+article (n.)	articolo	
+appearance (n.)	aspetto	
+attitude (n.)	atteggiamento	
+caution (n.)	attenzione	
+waiting (n.)	attesa	
+moment (n.)	attimo	
+activities (n.)	attività	
+act (n.)	atto	
+actor (n.)	attore	
+car (n.)	automobile	
+author (n.)	autore	
+authority (n.)	autorità	
+lawyer (n.)	avvocato	
+action (n.)	azione	
+bathroom (n.)	bagno (m.)	
+child (n.)	bambina	
+child (n.)	bambino	
+basis (n.)	base (f.)	
+battle (n.)	battaglia (f.)	
+beauty (n.)	bellezza (f.)	
+well (n.)	bene	
+animal (n.)	bestia (f.)	
+need (n.)	bisogno	
+mouth (n.)	bocca	
+wood (n.)	bosco	
+arm (n.)	braccio	
+coffee (n.)	caffè	
+football (n.)	calcio	
+room (n.)	camera	
+countryside (n.)	campagna	
+field (n.)	campo	
+dog (n.)	cane	
+hair (n.)	capello	
+boss (n.)	capo (m.)	
+character (n.)	carattere	
+meat (n.)	carne	
+paper (n.)	carta	
+home (n.)	casa	
+case (n.)	caso	
+cause (n.)	causa	
+horse (n.)	cavallo	
+center (n.)	centro	
+key (n.)	chiave	
+church (n.)	chiesa	
+kilometer (n.)	chilometro	
+sky (n.)	cielo	
+city (n.)	città	
+civilization (n.)	civiltà	
+class (n.)	classe	
+hill (n.)	collina	
+neck (n.)	collo	
+color (n.)	colore	
+fault (n.)	colpa	
+blow (n.)	colpo (m.)	
+business (n.)	commercio (m.)	
+commission (n.)	commissione	
+company (n.)	compagnia	
+partner (n.)	compagno	
+communication (n.)	comunicazione	
+concept (n.)	concetto	
+condition (n.)	condizione	
+comparison (n.)	confronto	
+congress (n.)	congresso	
+knowledge (n.)	conoscenza	
+result (n.)	conseguenza	
+advice (n.)	consiglio	
+contact (n.)	contatto	
+bill (n.)	conto (m.)	
+control (n.)	controllo	
+courage (n.)	coraggio	
+body (n.)	corpo (m.)	
+current (n.)	corrente	
+race (n.)	corsa	
+course (n.)	corso	
+courtyard (n.)	cortile	
+thing (n.)	cosa	
+consciousness (n.)	coscienza	
+it costs (n.)	costa	
+construction (n.)	costruzione	
+crisis (n.)	crisi	
+cross (n.)	croce	
+kitchen (n.)	cucina	
+culture (n.)	cultura	
+heart (n.)	cuore	
+care (n.)	cura (f.)	
+decision (n.)	decisione	
+money (n.)	denaro	
+tooth (n.)	dente	
+desire (n.)	desiderio	
+destiny (n.)	destino	
+defence (n.)	difesa	
+difference (n.)	differenza	
+difficulty (n.)	difficoltà	
+God (n.)	dio	
+director (n.)	direttore	
+direction (n.)	direzione	
+right (n.)	diritto	
+speech (n.)	discorso	
+arrangement (n.)	disposizione	
+distance (n.)	distanza	
+finger (n.)	dito	
+ache (n.)	dolore	
+demand (n.)	domanda	
+Sunday (n.)	Domenica	
+Don (n.)	don	
+woman (n.)	donna	
+doctor (n.)	dottore	
+duty (n.)	dovere	
+doubt (n.)	dubbio	
+excellence (n.)	eccellenza	
+effect (n.)	effetto	
+element (n.)	elemento	
+power (n.)	energia	
+era (n.)	epoca	
+grass (n.)	erba	
+error (n.)	errore	
+exam (n.)	esame	
+example (n.)	esempio	
+army (n.)	esercito	
+experience (n.)	esperienza	
+expression (n.)	espressione	
+summer (n.)	estate	
+age (n.)	età	
+factory (n.)	fabbrica	
+face (n.)	faccia	
+hunger (n.)	fame	
+family (n.)	famiglia	
+fantasy (n.)	fantasia	
+fatigue (n.)	fatica	
+done (n.)	fatto	
+favor (n.)	favore	
+wedding ring (n.)	fede	
+phenomenon (n.)	fenomeno	
+iron (n.)	ferro	
+party (n.)	festa	
+side (n.)	fianco	
+trust (n.)	fiducia	
+daughter (n.)	figlia	
+son (n.)	figlio	
+figure (n.)	figura	
+movie (n.)	film	
+wire (n.)	filo	
+end (n.)	fine	
+window (n.)	finestra	
+flower (n.)	fiore	
+river (n.)	fiume	
+leaf (n.)	foglia	
+crowd (n.)	folla	
+background (n.)	fondo	
+form (n.)	forma	
+luck (n.)	fortuna	
+power (n.)	forza	
+phrase (n.)	frase	
+brother (n.)	fratello (m.)	
+hurry (n.)	fretta	
+front (n.)	fronte	
+fruit (n.)	frutto	
+function (n.)	funzione	
+fire (n.)	fuoco	
+leg (n.)	gamba	
+cat (n.)	gatto	
+general (n.)	generale	
+kind (n.)	genere	
+people (n.)	gente	
+gesture (n.)	gesto	
+garden (n.)	giardino	
+game (n.)	gioco	
+joy (n.)	gioia	
+newspaper (n.)	giornale	
+day (n.)	giornata	
+day (n.)	giorno	
+young man (n.)	giovanotto	
+round (n.)	giro	
+judgement (n.)	giudizio	
+June (n.)	giugno	
+justice (n.)	giustizia	
+government (n.)	governo	
+degree (n.)	grado	
+grace (n.)	grazia	
+group (n.)	gruppo	
+guard (n.)	guardia	
+war (n.)	guerra	
+taste (n.)	gusto	
+idea (n.)	idea	
+image (n.)	immagine	
+importance (n.)	importanza	
+impression (n.)	impressione	
+industry (n.)	industria	
+Start (n.)	inizio	
+intention (n.)	intenzione	
+interest (n.)	interesse	
+winter (n.)	inverno	
+island (n.)	isola	
+instant (n.)	istante	
+institute (n.)	istituto	
+lip (n.)	labbro	
+the needle (n.)	lago	
+side (n.)	lato	
+milk (n.)	latte	
+work (n.)	lavoro	
+law (n.)	legge	
+letter (n.)	lettera	
+bed (n.)	letto (m.)	
+freedom (n.)	libertà	
+book (n.)	libro (m.)	
+limit (n.)	limite	
+line (n.)	linea	
+tongue (n.)	lingua	
+lira (n.)	lira	
+fight (n.)	lotta	
+light (n.)	luce	
+moon (n.)	luna	
+place (n.)	luogo	
+machine (n.)	macchina	
+mother (n.)	madre	
+master (n.)	maestro	
+May (n.)	maggio	
+disease (n.)	malattia	
+mum (n.)	mamma	
+way (n.)	maniera	
+mano (n.)	mano (f.)	
+sea (n.)	mare	
+husband (n.)	marito	
+mass (n.)	massa	
+matter (n.)	materia	
+marriage (n.)	matrimonio	
+morning (n.)	mattina	
+morning (n.)	mattino	
+doctor (n.)	medico	
+memory (n.)	memoria	
+mind (n.)	mente	
+market (n.)	mercato	
+merit (n.)	merito	
+month (n.)	mese	
+mass (n.)	messa	
+craft (n.)	mestiere	
+half (n.)	metà	
+meter (n.)	metro	
+half (n.)	mezzo	
+million (n.)	milione	
+minister (n.)	ministro	
+minute (n.)	minuto	
+measure (n.)	misura	
+way (n.)	modo	
+wife (n.)	moglie	
+moment (n.)	momento	
+world (n.)	mondo	
+mountain (n.)	montagna	
+mountain (n.)	monte	
+death (n.)	morte	
+reason (n.)	motivo	
+movement (n.)	movimento	
+wall (n.)	muro	
+music (n.)	musica	
+nature (n.)	natura	
+ship (n.)	nave	
+nation (n.)	nazione	
+need (n.)	necessità	
+enemy (n.)	nemico	
+first name (n.)	nome	
+north (n.)	nord	
+news (n.)	notizia	
+night (n.)	notte	
+number (n.)	numero	
+opportunity (n.)	occasione	
+eye (n.)	occhio	
+smell (n.)	odore	
+object (n.)	oggetto	
+shadow (n.)	ombra	
+honor (n.)	onore	
+opera (n.)	opera	
+worker (n.)	operaio	
+operation (n.)	operazione	
+opinion (n.)	opinione	
+now (n.)	ora	
+order (n.)	ordine	
+ear (n.)	orecchio	
+origin (n.)	origine	
+gold (n.)	oro	
+Hospital (n.)	ospedale	
+peace (n.)	pace	
+father (n.)	padre	
+master (n.)	padrone	
+country (n.)	paese	
+page (n.)	pagina	
+palace (n.)	palazzo	
+bread (n.)	pane (m.)	
+Pope (n.)	papà	
+wall (n.)	parete	
+word (n.)	parola	
+part (n.)	parte	
+party (n.)	partito	
+past (n.)	passato	
+passion (n.)	passione	
+step (n.)	passo	
+homeland (n.)	patria	
+fear (n.)	paura	
+skin (n.)	pelle	
+punishment (n.)	pena	
+thought (n.)	pensiero	
+danger (n.)	pericolo	
+period (n.)	periodo	
+person (n.)	persona	
+character (n.)	personaggio	
+weight (n.)	peso	
+piece (n.)	pezzo	
+pleasure (n.)	piacere	
+plan (n.)	piano	
+plant (n.)	pianta	
+flat land (n.)	pianura	
+square (n.)	piazza	
+foot (n.)	piede	
+pity (n.)	pietà	
+stone (n.)	pietra	
+poetry (n.)	poesia	
+poet (n.)	poeta	
+policy (n.)	politica	
+police (n.)	polizia	
+afternoon (n.)	pomeriggio	
+bridge (n.)	ponte (m.)	
+population (n.)	popolazione	
+people (n.)	popolo	
+door (n.)	porta	
+port (n.)	porto	
+position (n.)	posizione	
+possibility (n.)	possibilità	
+place (n.)	posto	
+power (n.)	potenza	
+power (n.)	potere	
+lunch (n.)	pranzo	
+meadow (n.)	prato	
+presence (n.)	presenza	
+president (n.)	presidente	
+price (n.)	prezzo	
+prince (n.)	principe	
+principle (n.)	principio	
+problem (n.)	problema	
+process (n.)	processo	
+product (n.)	prodotto	
+production (n.)	produzione	
+teacher (n.)	professore	
+program (n.)	programma	
+purpose (n.)	proposito	
+proposal (n.)	proposta	
+test (n.)	prova	
+province (n.)	provincia	
+public (n.)	pubblico	
+tip (n.)	punta	
+point (n.)	punto	
+painting (n.)	quadro	
+quality (n.)	qualità	
+question (n.)	questione	
+girl (n.)	ragazza	
+boy (n.)	ragazzo (m.)	
+reason (n.)	ragione	
+relationship (n.)	rapporto	
+reality (n.)	realtà	
+region (n.)	regione	
+kingdom (n.)	regno	
+report (n.)	relazione	
+republic (n.)	repubblica	
+rest (n.)	resto	
+wealth (n.)	ricchezza	
+research (n.)	ricerca	
+memory (n.)	ricordo	
+respect (n.)	rispetto	
+reply (n.)	risposta	
+result (n.)	risultato	
+return (n.)	ritorno	
+shore (n.)	riva	
+revolution (n.)	rivoluzione	
+stuff (n.)	roba	
+sacrifice (n.)	sacrificio	
+room (n.)	sala	
+blood (n.)	sangue (m.)	
+ladder (n.)	scala	
+scene (n.)	scena	
+science (n.)	scienza	
+purpose (n.)	scopo	
+writer (n.)	scrittore	
+school (n.)	scuola	
+century (n.)	secolo	
+seat (n.)	sede	
+sign (n.)	segno	
+secretary (n.)	segretario	
+following (n.)	seguito	
+sense (n.)	senso	
+feeling (n.)	sentimento	
+evening (n.)	sera	
+series (n.)	serie	
+service (n.)	servizio	
+week (n.)	settimana	
+effort (n.)	sforzo	
+look (n.)	sguardo	
+safety (n.)	sicurezza	
+lady (n.)	signora	
+lord (n.)	signore	
+young lady (n.)	signorina	
+silence (n.)	silenzio	
+system (n.)	sistema	
+situation (n.)	situazione	
+society (n.)	società	
+dream (n.)	sogno	
+soldier (n.)	soldato	
+sun (n.)	sole	
+solution (n.)	soluzione	
+sleep (n.)	sonno	
+sister (n.)	sorella	
+smile (n.)	sorriso	
+shoulder (n.)	spalla	
+space (n.)	spazio	
+species (n.)	specie	
+hope (n.)	speranza	
+expense (n.)	spesa	
+show (n.)	spettacolo	
+spirit (n.)	spirito	
+season (n.)	stagione	
+press (n.)	stampa	
+room (n.)	stanza	
+state (n.)	stato	
+railway station (n.)	stazione	
+star (n.)	stella	
+history (n.)	storia	
+Street (n.)	strada	
+tool (n.)	strumento	
+study (n.)	studio	
+success (n.)	successo	
+south (n.)	sud	
+development (n.)	sviluppo	
+table (n.)	tavola	
+table (n.)	tavolo	
+theater (n.)	teatro	
+time (n.)	tempo	
+term (n.)	termine	
+ground (n.)	terreno	
+territory (n.)	territorio	
+head (n.)	testa	
+guy (n.)	tipo	
+title (n.)	titolo	
+tone (n.)	tono	
+stretch (n.)	tratto	
+train (n.)	treno	
+official (n.)	ufficiale	
+office (n.)	ufficio	
+university (n.)	università	
+man (n.)	uomo	
+use (n.)	uso	
+Valley (n.)	valle	
+value (n.)	valore	
+wind (n.)	vento	
+truth (n.)	verità	
+dress (n.)	vestito	
+street (n.)	via	
+travel (n.)	viaggio	
+villa (n.)	villa	
+wine (n.)	vino	
+visit (n.)	visita	
+face (n.)	viso	
+view (n.)	vista	
+life (n.)	vita	
+voice (n.)	voce	
+wish (n.)	voglia	
+will (n.)	volontà	
+time (n.)	volta	
+face (n.)	volto	
+aunt (n.)	zia	
+uncle (n.)	zio	
+area (n.)	zona	
+any (adj.)	alcuno	
+tall (adj.)	alto	
+other (adj.)	altro	
+American (adj.)	americano	
+large (adj.)	ampio	
+ancient (adj.)	antico	
+absolute (adj.)	assoluto	
+careful (adj.)	attento	
+current (adj.)	attuale	
+light blue (adj.)	azzurro	
+low (adj.)	basso	
+nice (adj.)	bello	
+White (adj.)	bianco	
+blond (adj.)	biondo	
+good boy (adj.)	bravo	
+short (adj.)	breve	
+ugly (adj.)	brutto	
+dark (adj.)	buio	
+good (adj.)	buono	
+hot (adj.)	caldo	
+to be able (adj.)	capace	
+characteristic (adj.)	caratteristico	
+Dear (adj.)	caro	
+bad (adj.)	cattivo	
+Catholic (adj.)	cattolico	
+central (adj.)	centrale	
+of course (adj.)	certo	
+clear (adj.)	chiaro	
+each (adj.)	ciascuno	
+citizen (adj.)	cittadino	
+civil (adj.)	civile	
+comfortable (adj.)	comodo	
+common (adj.)	comune	
+farmer (adj.)	contadino	
+happy (adj.)	contento	
+continuous (adj.)	continuo	
+contrary (adj.)	contrario	
+Christian (adj.)	cristiano	
+right (adj.)	destro	
+difficult (adj.)	difficile	
+direct (adj.)	diretto	
+different (adj.)	diverso	
+sweet (adj.)	dolce	
+hard (adj.)	duro	
+cheap (adj.)	economico	
+electric (adj.)	elettrico	
+huge (adj.)	enorme	
+abroad (adj.)	estero	
+extreme (adj.)	estremo	
+European (adj.)	europeo	
+easy (adj.)	facile	
+famous (adj.)	famoso	
+happy (adj.)	felice	
+stationary (adj.)	fermo	
+strong (adj.)	forte	
+French (adj.)	francese	
+cold (adj.)	freddo	
+fresh (adj.)	fresco	
+future (adj.)	futuro	
+yellow (adj.)	giallo	
+young (adj.)	giovane	
+quite right (adj.)	giusto	
+great (adj.)	grande	
+serious (adj.)	grave	
+Greek (adj.)	greco	
+Grey (adj.)	grigio	
+big, large (adj.)	grosso	
+important (adj.)	importante	
+impossible (adj.)	impossibile	
+sudden (adj.)	improvviso	
+industrial (adj.)	industriale	
+English (adj.)	inglese	
+Interesting (adj.)	interessante	
+international (adj.)	internazionale	
+indoor (adj.)	interno	
+full (adj.)	intero	
+useless (adj.)	inutile	
+Italian (adj.)	italiano	
+wide (adj.)	largo	
+Latin (adj.)	latino	
+light (adj.)	leggero	
+free (adj.)	libero	
+far (adj.)	lontano	
+their (adj.)	loro	
+long (adj.)	lungo	
+greater (adj.)	maggiore	
+maximum (adj.)	massimo	
+same (adj.)	medesimo	
+average (adj.)	medio	
+better (adv.)	meglio	
+better (adj.)	migliore	
+military (adj.)	militare	
+minimum (adj.)	minimo	
+lower (adj.)	minore	
+my (adj.)	mio	
+modern (adj.)	moderno	
+very (adj.)	molto	
+moral (adj.)	morale	
+natural (adj.)	naturale	
+national (adj.)	nazionale	
+necessary (adj.)	necessario	
+black (adj.)	nero	
+nobody (adj.)	nessuno	
+noble (adj.)	nobile	
+normal (adj.)	normale	
+our (adj.)	nostro	
+remarkable (adj.)	notevole	
+known (adj.)	noto	
+naked (adj.)	nudo	
+numerous (adj.)	numeroso	
+new (adj.)	nuovo	
+every (adj.)	ogni	
+quite a lot of (adj.)	parecchio	
+particular (adj.)	particolare	
+crazy (adj.)	pazzo	
+worse (adj.)	peggio	
+perfect (adj.)	perfetto	
+dangerous (adj.)	pericoloso	
+staff (adj.)	personale	
+small (adj.)	piccolo	
+full (adj.)	pieno	
+more (adj.)	più	
+little (adj.)	poco	
+politic (adj.)	politico	
+possible (adj.)	possibile	
+poor (adj.)	povero	
+accurate (adj.)	preciso	
+here I'm (adj.)	presente	
+pricipale (adj.)	pricipale	
+first (adj.)	primo	
+private (adj.)	privato	
+deep (adj.)	profondo	
+ready (adj.)	pronto	
+own (adj.)	proprio	
+next one (adj.)	prossimo	
+pure (adj.)	puro	
+some (adj.)	qualche	
+which (adj.)	quale	
+any (adj.)	qualsiasi	
+whatever (adj.)	qualunque	
+how much (adj.)	quanto	
+fourth (adj.)	quarto	
+one (adj.)	quello	
+this (adj.)	questo	
+rapid (adj.)	rapido	
+real (adj.)	reale	
+recent (adj.)	recente	
+religious (adj.)	religioso	
+rich (adj.)	ricco	
+Roman (adj.)	romano	
+red (adj.)	rosso	
+Russian (adj.)	russo	
+sacred (adj.)	sacro	
+second (adj.)	secondo	
+secret (adj.)	segreto	
+simple (adj.)	semplice	
+serene (adj.)	sereno	
+serious (adj.)	serio	
+sure (adj.)	sicuro	
+similar (adj.)	simile	
+left (adj.)	sinistro	
+social (adj.)	sociale	
+usual (adj.)	solito	
+only (adj.)	solo	
+thin (adj.)	sottile	
+special (adj.)	speciale	
+tired out (adj.)	stanco	
+same (adj.)	stesso	
+historical (adj.)	storico	
+foreigner (adj.)	straniero	
+strange (adj.)	strano	
+extraordinary (adj.)	straordinario	
+stupid (adj.)	stupido	
+his (adj.)	suo	
+higher (adj.)	superiore	
+such (adj.)	tale	
+much (adj.)	tanto	
+technical (adj.)	tecnico	
+German (adj.)	tedesco	
+third (adj.)	terzo	
+quiet (adj.)	tranquillo	
+sad (adj.)	triste	
+too much (adj.)	troppo	
+your (adj.)	tuo	
+all (adj.)	tutto	
+equal (adj.)	uguale	
+last (adj.)	ultimo	
+human (adj.)	umano	
+single (adj.)	unico	
+helpful (adj.)	utile	
+varied (adj.)	vario	
+extensive (adj.)	vasto	
+old (adj.)	vecchio	
+green (adj.)	verde	
+true (adj.)	vero	
+close (adj.)	vicino	
+I live (adj.)	vivo	
+your (adj.)	vostro	
+empty (adj.)	vuoto	
+Shut up (adj.)	zitto	
+abandon (v.)	abbandonare	
+live (v.)	abitare	
+to happen (v.)	accadere	
+switch on (v.)	accendere	
+to accept (v.)	accettare	
+receive (v.)	accogliere	
+accompany (v.)	accompagnare	
+notice (v.)	accorgersi	
+to assert (v.)	affermare	
+face up to (v.)	affrontare	
+to add (v.)	aggiungere	
+to help (v.)	aiutare	
+remove (v.)	allontanare	
+raise up (v.)	alzare	
+to love (v.)	amare	
+kill (v.)	ammazzare	
+to admit (v.)	ammettere	
+to go (v.)	andare	
+to announce (v.)	annunciare	
+to appear (v.)	apparire	
+to belong (v.)	appartenere	
+support (v.)	appoggiare	
+to open (v.)	aprire	
+arm (v.)	armare	
+stop (v.)	arrestare	
+arrive (v.)	arrivare	
+to listen (v.)	ascoltare	
+wait (v.)	aspettare	
+ensure (v.)	assicurare	
+assist (v.)	assistere	
+to hire (v.)	assumere	
+attack (v.)	attaccare	
+wait for (v.)	attendere	
+go across (v.)	attraversare	
+to increase (v.)	aumentare	
+push forward (v.)	avanzare	
+to have (v.)	avere	
+occur (v.)	avvenire	
+warn (v.)	avvertire	
+approach (v.)	avvicinare	
+to kiss (v.)	baciare	
+look after (v.)	badare	
+suffice (v.)	bastare	
+beat (vt.)	battere	
+drinking (v.)	bere	
+bisognare (v.)	bisognare	
+burn (vt.)	bruciare	
+throw (v.)	buttare	
+fall (v.)	cadere	
+to change (v.)	cambiare	
+to walk (v.)	camminare	
+to sing (v.)	cantare	
+to understand (v.)	capire	
+happen (v.)	capitare	
+to celebrate (v.)	celebrare	
+search for (v.)	cercare	
+to call (v.)	chiamare	
+to ask (v.)	chiedere	
+to close (v.)	chiudere	
+hit (v.)	colpire	
+begin (vi/t.)	cominciare	
+fulfill (v.)	compiere	
+to compose (v.)	comporre	
+to buy (v.)	comprare	
+understand (v.)	comprendere	
+grant (v.)	concedere	
+to conclude (v.)	concludere	
+to conduct (v.)	condurre	
+to confess (v.)	confessare	
+know (v.)	conoscere	
+allow (v.)	consentire	
+to preserve (v.)	conservare	
+to consider (v.)	considerare	
+to count (v.)	contare	
+to contain (v.)	contenere	
+to continue (v.)	continuare	
+to convince (v.)	convincere	
+cover up (v.)	coprire	
+to run (v.)	correre	
+constitute (v.)	costituire	
+force (v.)	costringere	
+build (vt.)	costruire	
+create (v.)	creare	
+to believe (v.)	credere	
+to grow up (v.)	crescere	
+give (v.)	dare	
+to decide (v.)	decidere	
+devote (v.)	dedicare	
+to describe (v.)	descrivere	
+to desire (v.)	desiderare	
+to determine (v.)	determinare	
+declare (v.)	dichiarare	
+stick up for (v.)	difendere	
+spread (v.)	diffondere	
+forget (v.)	dimenticare	
+to demonstrate (v.)	dimostrare	
+to depend (v.)	dipendere	
+to say (v.)	dire	
+direct (v.)	dirigere	
+to discuss (v.)	discutere	
+have (v.)	disporre	
+to distinguish (v.)	distinguere	
+to destroy (v.)	distruggere	
+to become (vi.)	divenire	
+to become (vi.)	diventare	
+amuse (v.)	divertire	
+to divide (v.)	dividere	
+ask (v.)	domandare	
+to sleep (v.)	dormire	
+to last (v.)	durare	
+raise (v.)	elevare	
+to come in (v.)	entrare	
+to exclude (v.)	escludere	
+to exist (v.)	esistere	
+to expose (v.)	esporre	
+to express (v.)	esprimere	
+to be (v.)	essere	
+extend (v.)	estendere	
+to avoid (v.)	evitare	
+to hurt (v.)	ferire	
+stop (v.)	fermare	
+appear (v.)	figurare	
+to end (v.)	finire	
+fix (v.)	fissare	
+to found (v.)	fondare	
+to form (v.)	formare	
+to provide (v.)	fornire	
+run away (v.)	fuggire	
+to smoke (v.)	fumare	
+to throw (v.)	gettare	
+play (v.)	giocare	
+turn (v.)	girare	
+to judge (v.)	giudicare	
+reach (v.)	giungere	
+to enjoy (v.)	godere	
+shout (v.)	gridare	
+to look (v.)	guardare	
+to drive (v.)	guidare	
+to imagine (v.)	immaginare	
+learn (v.)	imparare	
+to prevent (v.)	impedire	
+to impose (v.)	imporre	
+import (v.)	importare	
+meet (v.)	incontrare	
+indicate (v.)	indicare	
+to start (v.)	iniziare	
+fall in love (v.)	innamorare	
+to teach (v.)	insegnare	
+to insist (v.)	insistere	
+hear (v.)	intendere	
+to interest (v.)	interessare	
+to invite (v.)	invitare	
+to launch (v.)	lanciare	
+to leave (v.)	lasciare	
+to work (v.)	lavorare	
+to tie (v.)	legare	
+to read (v.)	leggere	
+upbeat (v.)	levare	
+to free (v.)	liberare	
+to limit (v.)	limitare	
+to miss (v.)	mancare	
+send (v.)	mandare	
+to eat (v.)	mangiare	
+to maintain (v.)	mantenere	
+deserve (v.)	meritare	
+to put (v.)	mettere	
+to die (v.)	morire	
+to exhibit (v.)	mostrare	
+move (v.)	muovere	
+to be born (v.)	nascere	
+to hide (v.)	nascondere	
+to notice (v.)	notare	
+take (v.)	occorrere	
+to offend (v.)	offendere	
+to offer (v.)	offrire	
+to oppose (v.)	opporre	
+to sort (v.)	ordinare	
+to organize (v.)	organizzare	
+to observe (v.)	osservare	
+get (v.)	ottenere	
+to pay (v.)	pagare	
+opinion (v.)	parere	
+speak (v.)	parlare	
+take part (v.)	partecipare	
+start (v.)	partire	
+to pass (v.)	passare	
+to think (v.)	pensare	
+to lose (v.)	perdere	
+to allow (v.)	permettere	
+weigh (v.)	pesare	
+to cry (v.)	piangere	
+plant (v.)	piantare	
+place (v.)	porre	
+bring (vt.)	portare	
+place (v.)	posare	
+to possess (v.)	possedere	
+to prefer (v.)	preferire	
+to pray (v.)	pregare	
+to take (v.)	prendere	
+worry (v.)	preoccupare	
+prepare (v.)	preparare	
+to introduce (v.)	presentare	
+forecast (v.)	prevedere	
+proceed (v.)	procedere	
+to produce (v.)	produrre	
+to promise (v.)	promettere	
+to propose (v.)	proporre	
+try (v.)	provare	
+cause (v.)	provocare	
+provide (v.)	provvedere	
+to publish (v.)	pubblicare	
+to collect (v.)	raccogliere	
+to tell (v.)	raccontare	
+to reach (v.)	raggiungere	
+to represent (v.)	rappresentare	
+cause (v.)	recare	
+make (v.)	rendere	
+resist (v.)	resistere	
+to remain (v.)	restare	
+receive (v.)	ricevere	
+request (v.)	richiedere	
+to recognize (v.)	riconoscere	
+to remember (v.)	ricordare	
+to laugh (v.)	ridere	
+reduce (v.)	ridurre	
+to fill (v.)	riempire	
+re-enter (v.)	rientrare	
+report (v.)	riferire	
+to reject (v.)	rifiutare	
+concern (v.)	riguardare	
+stay (v.)	rimanere	
+return (v.)	rimettere	
+to thank (v.)	ringraziare	
+to repeat (v.)	ripetere	
+to report (v.)	riportare	
+to resume (v.)	riprendere	
+to solve (v.)	risolvere	
+answer (v.)	rispondere	
+result (v.)	risultare	
+consider (v.)	ritenere	
+to return (v.)	ritornare	
+find (v.)	ritrovare	
+gather (v.)	riunire	
+to success (v.)	riuscire	
+to review (v.)	rivedere	
+reveal (v.)	rivelare	
+turn (v.)	rivolgere	
+break (vt.)	rompere	
+to go up (v.)	salire	
+jump (v.)	saltare	
+to greet (v.)	salutare	
+to save (v.)	salvare	
+know (v.)	sapere	
+make a mistake (v.)	sbagliare	
+to run away (v.)	scappare	
+to choose (v.)	scegliere	
+alight (v.)	scendere	
+joke (v.)	scherzare	
+to disappear (v.)	scomparire	
+burst (vi.)	scoppiare	
+to discover (v.)	scoprire	
+slide (v.)	scorrere	
+to write (v.)	scrivere	
+excuse (v.)	scusare	
+sit down (v.)	sedere	
+Mark (v.)	segnare	
+follow (v.)	seguire	
+to seem (v.)	sembrare	
+feel (v.)	sentire	
+to serve (v.)	servire	
+mean (v.)	significare	
+stop (v.)	smettere	
+suffer (v.)	soffrire	
+to dream (v.)	sognare	
+to rise (v.)	sorgere	
+to surprise (v.)	sorprendere	
+to smile (v.)	sorridere	
+to sustain (v.)	sostenere	
+switch off (v.)	spegnere	
+to hope (v.)	sperare	
+explain (v.)	spiegare	
+to push (v.)	spingere	
+to marry (v.)	sposare	
+to establish (v.)	stabilire	
+remove (v.)	staccare	
+to stay (v.)	stare	
+tighten (v.)	stringere	
+to study (v.)	studiare	
+happen (v.)	succedere	
+play (v.)	suonare	
+overcome (v.)	superare	
+to wake up (v.)	svegliare	
+perform (v.)	svolgere	
+to be silent (vi.)	tacere	
+to cut (v.)	tagliare	
+to fear (v.)	temere	
+to tend (v.)	tendere	
+to hold (v.)	tenere	
+to attempt (v.)	tentare	
+Pull (v.)	tirare	
+to touch (v.)	toccare	
+remove (v.)	togliere	
+return (v.)	tornare	
+draw (v.)	trarre	
+to drag (v.)	trascinare	
+to commute (v.)	trasformare	
+to deal (v.)	trattare	
+to find (v.)	trovare	
+kill (v.)	uccidere	
+hear (v.)	udire	
+to merge (v.)	unire	
+use (v.)	usare	
+go out (v.)	uscire	
+to be worth (vi.)	valere	
+see (v.)	vedere	
+to sell (v.)	vendere	
+to come (v.)	venire	
+to dress (v.)	vestire	
+to win (v.)	vincere	
+live (v.)	vivere	
+to fly (v.)	volare	
+want (v.)	volere	
+turn (v.)	volgere	
+turn (v.)	voltare	
+to	a	
+enough	abbastanza	
+next	accanto	
+agreement	accordo	
+even	addirittura	
+on	addosso	
+now	adesso	
+at all	affatto	
+ha	ah	
+then	allora	
+at least	almeno	
+also	anche	
+yet	ancora	
+rather	anzi	
+as soon as	appena	
+just	appunto	
+very	assai	
+about	attorno	
+come on	avanti	
+of course	certamente	
+that	che	
+who	chi	
+who knows	chissà	
+us	ci	
+it	ciò	
+that is	cioè	
+about	circa	
+they	coloro	
+like	come	
+completely	completamente	
+in any case	comunque	
+with	con	
+versus	contro	
+which	cui	
+from	da	
+in front of	davanti	
+really	davvero	
+inside	dentro	
+of	di	
+behind (adv.)	dietro	
+in front of (adv.)	dinanzi	
+tomorrow	domani	
+after	dopo	
+where is it	dove	
+therefore	dunque	
+during	durante	
+is	e	
+etc	eccetera	
+here	ecco	
+he	egli	
+huh	eh	
+within	entro	
+(and) yet (conj.)	eppure	
+it	essa	
+it	esso	
+long last	finalmente	
+as long as	finché	
+till	fino	
+perhaps	forse	
+between (prep.)	fra	
+out	fuori	
+already	già	
+down	giù	
+thank you	grazie	
+yesterday	ieri	
+the	il	
+in	in	
+back, behind (adv.) (direction)	indietro	
+indeed	infatti	
+finally	infine	
+Moreover	inoltre	
+together	insieme	
+in conclusion	insomma	
+in the meantime	intanto	
+around	intorno	
+instead	invece	
+I	io	
+there	là	
+she	lei	
+there	li	
+there	lì	
+the	lo	
+he	lui	
+but (conj.)	ma	
+maybe	magari	
+less	meno	
+while	mentre	
+me	mi	
+of course	naturalmente	
+neither	ne	
+neither	né	
+neither	neanche	
+not even	nemmeno	
+neither	neppure	
+nothing	niente	
+we	noi	
+not	non	
+nothing	nulla	
+or	o	
+today	oggi	
+each one	ognuno	
+Oh	oh	
+over	oltre	
+or	oppure	
+now	oramai	
+sin	peccato	
+for	per	
+because (conj.)	perché	
+therefore	perciò	
+even	perfino	
+However	però	
+Rather	piuttosto	
+as	poiché	
+At	presso	
+soon	presto	
+before (adv.)	prima	
+probably	probabilmente	
+mashed potato	pure	
+here	qua	
+something	qualcosa	
+someone	qualcuno	
+almost	quasi	
+here	qui	
+therefore	quindi	
+self	se	
+without	senza	
+Yes	si	
+Yup	sì	
+Yes No	sino	
+only	soltanto	
+over it	sopra	
+mostly	soprattutto	
+under	sotto	
+often	spesso	
+This morning	stamattina	
+tonight	stasera	
+on	su	
+immediately	subito	
+late	tardi	
+between (prep.)	tra	
+you	tu	
+however	tuttavia	
+a	un	
+one	uno	
+really	veramente	
+towards	verso	
+you	vi	
+you	voi	
